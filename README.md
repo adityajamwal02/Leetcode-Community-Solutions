@@ -16,8 +16,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
-| `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
 | `202` | Happy Number | https://shorturl.at/degtY | 
+| `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
-| `77` | Combinations |  | 
+| `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
