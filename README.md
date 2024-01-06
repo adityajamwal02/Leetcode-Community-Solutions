@@ -17,6 +17,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `202` | Happy Number | https://shorturl.at/degtY | 
+| `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
 | `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
