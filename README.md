@@ -19,6 +19,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `202` | Happy Number | https://shorturl.at/degtY | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
 | `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
+| ` ` | Smallest Missing Integer Greater Than Sequential Prefix Sum | https://shorturl.at/iIMPX |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,6 +38,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
 | `2982` | Find Longest Special Substring That Occurs Thrice II | https://shorturl.at/diqBK | 
+| `  ` | Minimum Number of Operations to Make Array XOR Equal to K | https://shorturl.at/dinrV | 
+| `  ` | Minimum Number of Operations to Make X and Y Equal | https://shorturl.at/stJV1 | 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -47,6 +50,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | :---: | --- | --- | 
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
+| `  ` | Count the Number of Powerful Integers |    |
 
 
 
