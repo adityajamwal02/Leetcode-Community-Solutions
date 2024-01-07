@@ -48,7 +48,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
-| `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
+| `42` | Trapping Rain Water | https://shorturl.at/bKW59 |\
+| `127` | Word Ladder | 
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `  ` | Count the Number of Powerful Integers |    |
 
