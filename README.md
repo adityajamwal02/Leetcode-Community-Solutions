@@ -51,6 +51,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
+| `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `  ` | Count the Number of Powerful Integers |    |
 
 
