@@ -50,7 +50,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
-| `4` | Median of Two Sorted Arrays |  |
+| `4` | Median of Two Sorted Arrays | https://shorturl.at/styQT |
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
