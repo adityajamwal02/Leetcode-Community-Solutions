@@ -16,10 +16,12 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
-| `202` | Happy Number | https://shorturl.at/degtY | 
+| `202` | Happy Number | https://shorturl.at/degtY |
+| `704` | Binary Search | https://shorturl.at/ehqxR | 
+| `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
 | `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
-| ` ` | Smallest Missing Integer Greater Than Sequential Prefix Sum | https://shorturl.at/iIMPX |
+| `2996` | Smallest Missing Integer Greater Than Sequential Prefix Sum | https://shorturl.at/iIMPX |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -38,8 +40,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
 | `2982` | Find Longest Special Substring That Occurs Thrice II | https://shorturl.at/diqBK | 
-| `  ` | Minimum Number of Operations to Make Array XOR Equal to K | https://shorturl.at/dinrV | 
-| `  ` | Minimum Number of Operations to Make X and Y Equal | https://shorturl.at/stJV1 | 
+| `2997` | Minimum Number of Operations to Make Array XOR Equal to K | https://shorturl.at/dinrV | 
+| `2998` | Minimum Number of Operations to Make X and Y Equal | https://shorturl.at/stJV1 | 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,11 +50,13 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
+| `4` | Median of Two Sorted Arrays |  |
+| `41` | First Missing Positive |  |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
-| `  ` | Count the Number of Powerful Integers |    |
+| `2999` | Count the Number of Powerful Integers |    |
 
 
 
