@@ -17,6 +17,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `202` | Happy Number | https://shorturl.at/degtY |
+| `206` | Reverse Linked List | https://shorturl.at/lqt78 |
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
