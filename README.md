@@ -33,6 +33,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `5` | Longest Palindromic Substring | https://shorturl.at/GNQX7 |
+| `24` | Swap Nodes in Pairs |  | 
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
@@ -56,11 +57,14 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `4` | Median of Two Sorted Arrays | https://shorturl.at/styQT |
+| `23` | Merge k Sorted Lists |  | 
+| `25` | Reverse Nodes in k-Group |  | 
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
+| `432` | All O'one Data Structure | | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `2999` | Count the Number of Powerful Integers |    |
 
