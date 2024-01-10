@@ -35,6 +35,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
+| `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
