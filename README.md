@@ -16,6 +16,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
+| `160` | Intersection of Two Linked Lists | https://shorturl.at/izX46 | 
 | `202` | Happy Number | https://shorturl.at/degtY |
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
