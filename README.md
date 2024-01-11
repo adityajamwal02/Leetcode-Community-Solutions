@@ -41,6 +41,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
+| `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
