@@ -39,6 +39,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
+| `148` | Sort List | https://shorturl.at/aqxFY | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
