@@ -33,13 +33,14 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `5` | Longest Palindromic Substring | https://shorturl.at/GNQX7 |
-| `24` | Swap Nodes in Pairs |  | 
+| `24` | Swap Nodes in Pairs | https://shorturl.at/JNSW6 | 
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
+| `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
