@@ -45,6 +45,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
+| `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
