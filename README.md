@@ -46,6 +46,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
+| `1094` | Car Pooling |  |
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
@@ -71,6 +72,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
+| `295` | Find Median from Data Stream | 
 | `432` | All O'one Data Structure | | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
