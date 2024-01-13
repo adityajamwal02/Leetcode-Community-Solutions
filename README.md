@@ -72,6 +72,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
 | `432` | All O'one Data Structure | | 
+| `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `2999` | Count the Number of Powerful Integers |    |
 
