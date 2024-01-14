@@ -66,7 +66,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | :---: | --- | --- | 
 | `4` | Median of Two Sorted Arrays | https://shorturl.at/styQT |
 | `23` | Merge k Sorted Lists | https://shorturl.at/DGO68 | 
-| `25` | Reverse Nodes in k-Group |  | 
+| `25` | Reverse Nodes in k-Group | https://shorturl.at/cPRZ1 | 
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
