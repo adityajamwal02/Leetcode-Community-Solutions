@@ -42,6 +42,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
+| `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
@@ -76,6 +77,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
 | `432` | All O'one Data Structure | | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
+| `871` | Minimum Number of Refueling Stops |  | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `2999` | Count the Number of Powerful Integers |    |
 
