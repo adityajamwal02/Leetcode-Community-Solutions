@@ -79,6 +79,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
+| `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `2999` | Count the Number of Powerful Integers |    |
 
