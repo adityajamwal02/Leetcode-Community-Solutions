@@ -77,7 +77,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
 | `432` | All O'one Data Structure | | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
-| `871` | Minimum Number of Refueling Stops |  | 
+| `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 | `2999` | Count the Number of Powerful Integers |    |
 
