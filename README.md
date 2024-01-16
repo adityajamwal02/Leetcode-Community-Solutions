@@ -35,6 +35,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
 | `5` | Longest Palindromic Substring | https://shorturl.at/GNQX7 |
+| `6` | Zigzag Conversion | https://shorturl.at/eRT13 | 
 | `24` | Swap Nodes in Pairs | https://shorturl.at/JNSW6 | 
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
