@@ -56,6 +56,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
+| `1922` | Count Good Numbers | https://shorturl.at/K2359 |
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
