@@ -44,6 +44,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
+| `241` | Different Ways to Add Parentheses | https://shorturl.at/kstC2 |
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
