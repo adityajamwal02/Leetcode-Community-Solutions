@@ -47,6 +47,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `241` | Different Ways to Add Parentheses | https://shorturl.at/kstC2 |
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
+| `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
