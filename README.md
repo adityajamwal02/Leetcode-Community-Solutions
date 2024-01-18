@@ -44,6 +44,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
+| `78` | Subsets | https://shorturl.at/kpqvw | 
+| `90` | Subsets II | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
