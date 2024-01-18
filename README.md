@@ -22,10 +22,12 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
 | `326` | Power of Three | https://shorturl.at/vwxN1 |
 | `401` | Binary Watch | https://shorturl.at/abAN6 |
+| `509` | Fibonacci Number |  | 
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
 | `1046` | Last Stone Weight | https://shorturl.at/dWXZ5 | 
+| `1863` | Sum of All Subset XOR Totals |  | 
 | `2099` | Find Subsequence of Length K With the Largest Sum | https://shorturl.at/dprC8 | 
 | `2908` | Check if Bitwise OR Has Trailing Zeros | https://shorturl.at/moDWZ |
 | `2996` | Smallest Missing Integer Greater Than Sequential Prefix Sum | https://shorturl.at/iIMPX |
@@ -54,6 +56,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
+| `797` | All Paths From Source to Target |  | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
@@ -64,6 +67,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
+| `2550` | Count Collisions of Monkeys on a Polygon |  | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
 | `2982` | Find Longest Special Substring That Occurs Thrice II | https://shorturl.at/diqBK | 
@@ -83,6 +87,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `37` | Sudoku Solver | https://shorturl.at/jknP4 | 
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
+| `51` | N-Queens |  | 
+| `52` | N-Queens II |  |
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
@@ -91,6 +97,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
+| `980` | Unique Paths III |  | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
 
