@@ -21,6 +21,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `202` | Happy Number | https://shorturl.at/degtY |
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
 | `326` | Power of Three | https://shorturl.at/vwxN1 |
+| `401` | Binary Watch | https://shorturl.at/abAN6 |
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
