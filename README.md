@@ -56,7 +56,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
-| `797` | All Paths From Source to Target |  | 
+| `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
