@@ -18,7 +18,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | :---: | --- | --- | 
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
-| `101` | Symmetric Tree |  | 
+| `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
 | `104` | Maximum Depth of Binary Tree |  |
 | `112` | Path Sum |  | 
 | `160` | Intersection of Two Linked Lists | https://shorturl.at/izX46 | 
