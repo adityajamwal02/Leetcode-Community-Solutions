@@ -102,7 +102,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
-| `980` | Unique Paths III |  | 
+| `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
 
