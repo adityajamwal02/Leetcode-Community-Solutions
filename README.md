@@ -20,7 +20,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
 | `104` | Maximum Depth of Binary Tree | https://shorturl.at/acmsZ |
-| `112` | Path Sum |  | 
+| `112` | Path Sum | https://shorturl.at/rDFMR | 
 | `160` | Intersection of Two Linked Lists | https://shorturl.at/izX46 | 
 | `202` | Happy Number | https://shorturl.at/degtY |
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
