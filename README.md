@@ -24,9 +24,12 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `160` | Intersection of Two Linked Lists | https://shorturl.at/izX46 | 
 | `202` | Happy Number | https://shorturl.at/degtY |
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
+| `226` | Invert Binary Tree |  | 
 | `326` | Power of Three | https://shorturl.at/vwxN1 |
 | `401` | Binary Watch | https://shorturl.at/abAN6 |
-| `509` | Fibonacci Number | https://shorturl.at/copy2 | 
+| `404` | Sum of Left Leaves |  | 
+| `509` | Fibonacci Number | https://shorturl.at/copy2 |
+| `543` | Diameter of Binary Tree |  | 
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
@@ -52,15 +55,21 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `78` | Subsets | https://shorturl.at/kpqvw | 
 | `90` | Subsets II | https://shorturl.at/bkmoM |
+| `96` | Unique Binary Search Trees |  | 
+| `102` | Binary Tree Level Order Traversal |   | 
+| `103` | Binary Tree Zigzag Level Order Traversal |   | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
 | `198` | House Robber | https://shorturl.at/tGS08 |
+| `230` | Kth Smallest Element in a BST |   | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
 | `241` | Different Ways to Add Parentheses | https://shorturl.at/kstC2 |
+| `337` | House Robber III |   | 
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
+| `654` | Maximum Binary Tree |   | 
 | `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
@@ -68,11 +77,14 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1094` | Car Pooling | https://shorturl.at/ahlrw |
 | `1169` | Invalid Transactions | https://shorturl.at/itCST | 
+| `1302` | Deepest Leaves Sum |   | 
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
+| `1448` | Count Good Nodes in Binary Tree |  | 
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
+| `2385` | Amount of Time for Binary Tree to Be Infected |   | 
 | `2550` | Count Collisions of Monkeys on a Polygon | https://shorturl.at/coAFL | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
@@ -95,6 +107,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `51` | N-Queens | https://shorturl.at/ceoI4 | 
 | `52` | N-Queens II |  |
+| `124` | Binary Tree Maximum Path Sum |  | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
@@ -104,6 +117,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
+| `987` | Vertical Order Traversal of a Binary Tree |   | 
+| `2421` | Number of Good Paths |   | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
 
