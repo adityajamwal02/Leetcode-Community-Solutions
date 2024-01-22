@@ -56,7 +56,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `78` | Subsets | https://shorturl.at/kpqvw | 
 | `90` | Subsets II | https://shorturl.at/bkmoM |
 | `96` | Unique Binary Search Trees |  | 
-| `102` | Binary Tree Level Order Traversal |   | 
+| `102` | Binary Tree Level Order Traversal |  https://shorturl.at/BFJT2 | 
 | `103` | Binary Tree Zigzag Level Order Traversal |   | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
