@@ -106,7 +106,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `51` | N-Queens | https://shorturl.at/ceoI4 | 
-| `52` | N-Queens II |  |
+| `52` | N-Queens II | https://shorturl.at/demDQ |
 | `124` | Binary Tree Maximum Path Sum |  | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
