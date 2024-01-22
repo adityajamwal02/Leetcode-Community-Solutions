@@ -29,7 +29,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `401` | Binary Watch | https://shorturl.at/abAN6 |
 | `404` | Sum of Left Leaves |  | 
 | `509` | Fibonacci Number | https://shorturl.at/copy2 |
-| `543` | Diameter of Binary Tree |  | 
+| `543` | Diameter of Binary Tree | https://shorturl.at/dfjt9 | 
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
