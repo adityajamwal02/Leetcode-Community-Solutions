@@ -27,7 +27,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `226` | Invert Binary Tree | https://shorturl.at/hrDJ2 | 
 | `326` | Power of Three | https://shorturl.at/vwxN1 |
 | `401` | Binary Watch | https://shorturl.at/abAN6 |
-| `404` | Sum of Left Leaves |  | 
+| `404` | Sum of Left Leaves | https://shorturl.at/dpES6 | 
 | `509` | Fibonacci Number | https://shorturl.at/copy2 |
 | `543` | Diameter of Binary Tree | https://shorturl.at/dfjt9 | 
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
