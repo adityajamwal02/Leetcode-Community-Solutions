@@ -81,6 +81,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1302` | Deepest Leaves Sum | https://shorturl.at/kmrJT | 
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
 | `1448` | Count Good Nodes in Binary Tree |  | 
+| `1457` | Pseudo-Palindromic Paths in a Binary Tree | https://shorturl.at/jxAQY | 
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
