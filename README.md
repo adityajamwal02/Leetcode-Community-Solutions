@@ -120,7 +120,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
-| `987` | Vertical Order Traversal of a Binary Tree |   | 
+| `987` | Vertical Order Traversal of a Binary Tree | https://shorturl.at/dlqBI | 
 | `2421` | Number of Good Paths |   | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
