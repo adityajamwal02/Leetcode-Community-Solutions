@@ -16,6 +16,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
+| `20` | Valid Parentheses |  | 
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
@@ -30,6 +31,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `404` | Sum of Left Leaves | https://shorturl.at/dpES6 | 
 | `509` | Fibonacci Number | https://shorturl.at/copy2 |
 | `543` | Diameter of Binary Tree | https://shorturl.at/dfjt9 | 
+| `682` | Baseball Game |  | 
 | `704` | Binary Search | https://shorturl.at/ehqxR | 
 | `872` | Leaf-Similar Trees | https://shorturl.at/acdrN | 
 | `997` | Find the Town Judge | https://shorturl.at/qtLQ1 | 
@@ -67,11 +69,16 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `337` | House Robber III | https://shorturl.at/knHLY | 
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
+| `456` | 132 Pattern |  | 
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
+| `503` | Next Greater Element II |   | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `576` | Out of Boundary Paths | https://shorturl.at/qBGT1 | 
 | `654` | Maximum Binary Tree | https://shorturl.at/beAN3 | 
+| `735` | Asteroid Collision |  | 
 | `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
+| `901` | Online Stock Span |  | 
+| `918` | Maximum Sum Circular Subarray |  | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
@@ -106,23 +113,28 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `4` | Median of Two Sorted Arrays | https://shorturl.at/styQT |
 | `23` | Merge k Sorted Lists | https://shorturl.at/DGO68 | 
 | `25` | Reverse Nodes in k-Group | https://shorturl.at/cPRZ1 | 
+| `32` | Longest Valid Parentheses |  | 
 | `37` | Sudoku Solver | https://shorturl.at/jknP4 | 
 | `41` | First Missing Positive | https://shorturl.at/bfCGO |
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `51` | N-Queens | https://shorturl.at/ceoI4 | 
 | `52` | N-Queens II | https://shorturl.at/demDQ |
+| `84` | Largest Rectangle in Histogram |  | 
 | `124` | Binary Tree Maximum Path Sum | https://shorturl.at/doTU1 | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
+| `239` | Sliding Window Maximum |  | 
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
+| `862` | Shortest Subarray with Sum at Least K |  | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
 | `987` | Vertical Order Traversal of a Binary Tree | https://shorturl.at/dlqBI | 
+| `1793` | Maximum Score of a Good Subarray |   | 
 | `2421` | Number of Good Paths |   | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
