@@ -16,7 +16,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 | ID | Title | Solution Link | 
 | :---: | --- | --- | 
-| `20` | Valid Parentheses |  | 
+| `20` | Valid Parentheses | https://shorturl.at/eiruT | 
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
