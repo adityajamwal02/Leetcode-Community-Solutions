@@ -116,7 +116,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `135` | Candy | https://shorturl.at/nrtHK | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
-| `432` | All O'one Data Structure | https://shorturl.at/dlpS7 | 
+| `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
+| `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
