@@ -69,7 +69,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `337` | House Robber III | https://shorturl.at/knHLY | 
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
-| `456` | 132 Pattern |  | 
+| `456` | 132 Pattern | https://shorturl.at/afjJ4 | 
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `503` | Next Greater Element II |   | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
