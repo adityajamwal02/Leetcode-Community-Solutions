@@ -71,7 +71,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
 | `456` | 132 Pattern | https://shorturl.at/afjJ4 | 
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
-| `503` | Next Greater Element II |   | 
+| `503` | Next Greater Element II | https://shorturl.at/htJV6 | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `576` | Out of Boundary Paths | https://shorturl.at/qBGT1 | 
 | `654` | Maximum Binary Tree | https://shorturl.at/beAN3 | 
