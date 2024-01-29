@@ -25,7 +25,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `160` | Intersection of Two Linked Lists | https://shorturl.at/izX46 | 
 | `202` | Happy Number | https://shorturl.at/degtY |
 | `206` | Reverse Linked List | https://shorturl.at/lqt78 |
-| `226` | Invert Binary Tree | https://shorturl.at/hrDJ2 | 
+| `226` | Invert Binary Tree | https://shorturl.at/hrDJ2 |
+| `232` | Implement Queue using Stacks | https://shorturl.at/fmKN3 | 
 | `326` | Power of Three | https://shorturl.at/vwxN1 |
 | `401` | Binary Watch | https://shorturl.at/abAN6 |
 | `404` | Sum of Left Leaves | https://shorturl.at/dpES6 | 
