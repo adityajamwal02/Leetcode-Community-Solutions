@@ -136,7 +136,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
 | `987` | Vertical Order Traversal of a Binary Tree | https://shorturl.at/dlqBI | 
-| `1793` | Maximum Score of a Good Subarray |   | 
+| `1793` | Maximum Score of a Good Subarray | https://shorturl.at/gqt19 | 
 | `2421` | Number of Good Paths | https://shorturl.at/inRV6 | 
 | `2858` | Minimum Edge Reversals So Every Node Is Reachable | https://shorturl.at/ckDL9 |
 
