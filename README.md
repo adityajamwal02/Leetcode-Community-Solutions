@@ -63,6 +63,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `103` | Binary Tree Zigzag Level Order Traversal | https://shorturl.at/nsEOT | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
+| `150` | Evaluate Reverse Polish Notation | https://shorturl.at/dkNWX | 
 | `198` | House Robber | https://shorturl.at/tGS08 |
 | `230` | Kth Smallest Element in a BST | https://shorturl.at/bJLS2 | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
