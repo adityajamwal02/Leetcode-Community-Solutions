@@ -132,7 +132,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
-| `862` | Shortest Subarray with Sum at Least K |  | 
+| `862` | Shortest Subarray with Sum at Least K | https://shorturl.at/gjvxS | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
 | `887` | Super Egg Drop | https://shorturl.at/ekyEW | 
 | `980` | Unique Paths III | https://shorturl.at/jnuV4 | 
