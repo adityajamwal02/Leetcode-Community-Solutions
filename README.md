@@ -78,6 +78,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `576` | Out of Boundary Paths | https://shorturl.at/qBGT1 | 
 | `654` | Maximum Binary Tree | https://shorturl.at/beAN3 | 
 | `735` | Asteroid Collision | https://shorturl.at/ovDN7 | 
+| `739` | Daily Temperatures | https://shorturl.at/FIKPS | 
 | `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
 | `901` | Online Stock Span | https://shorturl.at/diGK5 | 
 | `918` | Maximum Sum Circular Subarray |  | 
