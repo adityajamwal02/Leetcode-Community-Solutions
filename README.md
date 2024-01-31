@@ -18,6 +18,8 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | :---: | --- | --- | 
 | `20` | Valid Parentheses | https://shorturl.at/eiruT | 
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
+| `35` | Search Insert Position |  | 
+| `69` | Sqrt(x) |  | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
 | `104` | Maximum Depth of Binary Tree | https://shorturl.at/acmsZ |
@@ -51,10 +53,13 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `5` | Longest Palindromic Substring | https://shorturl.at/GNQX7 |
 | `6` | Zigzag Conversion | https://shorturl.at/eRT13 | 
 | `24` | Swap Nodes in Pairs | https://shorturl.at/JNSW6 |
+| `33` | Search in Rotated Sorted Array |   | 
+| `34` | Find First and Last Position of Element in Sorted Array |   | 
 | `39` | Combination Sum | https://shorturl.at/uxJRU |
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
+| `74` | Search a 2D Matrix |  | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `78` | Subsets | https://shorturl.at/kpqvw | 
 | `90` | Subsets II | https://shorturl.at/bkmoM |
@@ -64,10 +69,13 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
 | `150` | Evaluate Reverse Polish Notation | https://shorturl.at/dkNWX | 
+| `162` | Find Peak Element |  | 
 | `198` | House Robber | https://shorturl.at/tGS08 |
 | `230` | Kth Smallest Element in a BST | https://shorturl.at/bJLS2 | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
+| `240` | Search a 2D Matrix II |   |
 | `241` | Different Ways to Add Parentheses | https://shorturl.at/kstC2 |
+| `287` | Find the Duplicate Number |   | 
 | `337` | House Robber III | https://shorturl.at/knHLY | 
 | `347` | Top K Frequent Elements | https://shorturl.at/awIPS | 
 | `380` | Insert Delete GetRandom O(1) | https://shorturl.at/bBIUV |
@@ -80,9 +88,12 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `735` | Asteroid Collision | https://shorturl.at/ovDN7 | 
 | `739` | Daily Temperatures | https://shorturl.at/FIKPS | 
 | `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
+| `826` | Most Profit Assigning Work |  | 
+| `875` | Koko Eating Bananas |   | 
 | `901` | Online Stock Span | https://shorturl.at/diGK5 | 
 | `918` | Maximum Sum Circular Subarray |  | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
+| `1011` | Capacity To Ship Packages Within D Days |  | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
@@ -94,8 +105,10 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
 | `1448` | Count Good Nodes in Binary Tree | https://shorturl.at/ajn24 | 
 | `1457` | Pseudo-Palindromic Paths in a Binary Tree | https://shorturl.at/jxAQY | 
+| `1552` | Magnetic Force Between Two Balls |  |
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
+| `2064` | Minimized Maximum of Products Distributed to Any Store |   | 
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
 | `2385` | Amount of Time for Binary Tree to Be Infected | https://shorturl.at/aciz2 | 
