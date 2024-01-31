@@ -111,8 +111,10 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `2064` | Minimized Maximum of Products Distributed to Any Store |   | 
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
+| `2226` | Maximum Candies Allocated to K Children |  | 
 | `2385` | Amount of Time for Binary Tree to Be Infected | https://shorturl.at/aciz2 | 
 | `2550` | Count Collisions of Monkeys on a Polygon | https://shorturl.at/coAFL | 
+| `2594` | Minimum Time to Repair Cars |  | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
 | `2982` | Find Longest Special Substring That Occurs Thrice II | https://shorturl.at/diqBK | 
@@ -139,11 +141,15 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `124` | Binary Tree Maximum Path Sum | https://shorturl.at/doTU1 | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
+| `154` | Find Minimum in Rotated Sorted Array II |  | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
 | `239` | Sliding Window Maximum | https://shorturl.at/evD08 | 
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
+| `354` | Russian Doll Envelopes |   | 
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
+| `493` | Reverse Pairs |   | 
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
+| `719` | Find K-th Smallest Pair Distance |   | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `862` | Shortest Subarray with Sum at Least K | https://shorturl.at/gjvxS | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
