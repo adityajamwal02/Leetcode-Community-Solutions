@@ -91,7 +91,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `826` | Most Profit Assigning Work |  | 
 | `875` | Koko Eating Bananas |   | 
 | `901` | Online Stock Span | https://shorturl.at/diGK5 | 
-| `918` | Maximum Sum Circular Subarray |  | 
+| `918` | Maximum Sum Circular Subarray | https://shorturl.at/lpFQR | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
 | `1011` | Capacity To Ship Packages Within D Days |  | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
