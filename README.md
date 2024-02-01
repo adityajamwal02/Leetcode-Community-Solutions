@@ -116,6 +116,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `2550` | Count Collisions of Monkeys on a Polygon | https://shorturl.at/coAFL | 
 | `2594` | Minimum Time to Repair Cars |  | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
+| `2966` | Divide Array Into Arrays With Max Difference | https://shorturl.at/buyUV | 
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
 | `2982` | Find Longest Special Substring That Occurs Thrice II | https://shorturl.at/diqBK | 
 | `2997` | Minimum Number of Operations to Make Array XOR Equal to K | https://shorturl.at/dinrV | 
