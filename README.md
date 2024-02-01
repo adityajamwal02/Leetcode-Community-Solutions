@@ -53,7 +53,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `5` | Longest Palindromic Substring | https://shorturl.at/GNQX7 |
 | `6` | Zigzag Conversion | https://shorturl.at/eRT13 | 
 | `24` | Swap Nodes in Pairs | https://shorturl.at/JNSW6 |
-| `33` | Search in Rotated Sorted Array |   | 
+| `33` | Search in Rotated Sorted Array | https://shorturl.at/hjFYZ | 
 | `34` | Find First and Last Position of Element in Sorted Array |   | 
 | `39` | Combination Sum | https://shorturl.at/uxJRU |
 | `46` | Permutations | https://shorturl.at/bpMPW | 
