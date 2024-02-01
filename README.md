@@ -18,7 +18,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | :---: | --- | --- | 
 | `20` | Valid Parentheses | https://shorturl.at/eiruT | 
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
-| `35` | Search Insert Position |  | 
+| `35` | Search Insert Position | https://shorturl.at/efqvy | 
 | `69` | Sqrt(x) | https://shorturl.at/oyLTW | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
