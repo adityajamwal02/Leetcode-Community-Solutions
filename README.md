@@ -54,7 +54,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `6` | Zigzag Conversion | https://shorturl.at/eRT13 | 
 | `24` | Swap Nodes in Pairs | https://shorturl.at/JNSW6 |
 | `33` | Search in Rotated Sorted Array | https://shorturl.at/hjFYZ | 
-| `34` | Find First and Last Position of Element in Sorted Array |   | 
+| `34` | Find First and Last Position of Element in Sorted Array | https://shorturl.at/botP3 | 
 | `39` | Combination Sum | https://shorturl.at/uxJRU |
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
@@ -64,7 +64,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `78` | Subsets | https://shorturl.at/kpqvw | 
 | `90` | Subsets II | https://shorturl.at/bkmoM |
 | `96` | Unique Binary Search Trees | https://shorturl.at/dAEUZ | 
-| `102` | Binary Tree Level Order Traversal |  https://shorturl.at/BFJT2 | 
+| `102` | Binary Tree Level Order Traversal | https://shorturl.at/BFJT2 | 
 | `103` | Binary Tree Zigzag Level Order Traversal | https://shorturl.at/nsEOT | 
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
