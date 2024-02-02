@@ -69,7 +69,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `134` | Gas Station | https://shorturl.at/psJO9 |
 | `148` | Sort List | https://shorturl.at/aqxFY | 
 | `150` | Evaluate Reverse Polish Notation | https://shorturl.at/dkNWX | 
-| `162` | Find Peak Element |  | 
+| `162` | Find Peak Element | https://shorturl.at/gqrE7 | 
 | `198` | House Robber | https://shorturl.at/tGS08 |
 | `230` | Kth Smallest Element in a BST | https://shorturl.at/bJLS2 | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
