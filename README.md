@@ -20,6 +20,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `21` | Merge Two Sorted Lists | https://shorturl.at/agvy0 | 
 | `35` | Search Insert Position | https://shorturl.at/efqvy | 
 | `69` | Sqrt(x) | https://shorturl.at/oyLTW | 
+| `94` | Binary Tree Inorder Traversal | https://shorturl.at/IQ089 | 
 | `100` | Same Tree | https://shorturl.at/zALSZ | 
 | `101` | Symmetric Tree | https://shorturl.at/ahxAP | 
 | `104` | Maximum Depth of Binary Tree | https://shorturl.at/acmsZ |
