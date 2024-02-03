@@ -96,6 +96,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1011` | Capacity To Ship Packages Within D Days |  | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
+| `1043` | Partition Array for Maximum Sum | https://shorturl.at/boIV7 | 
 | `1079` | Letter Tile Possibilities | https://shorturl.at/morxV | 
 | `1094` | Car Pooling | https://shorturl.at/ahlrw |
 | `1143` | Longest Common Subsequence | https://shorturl.at/npS35 |
