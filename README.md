@@ -140,6 +140,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `42` | Trapping Rain Water | https://shorturl.at/bKW59 |
 | `51` | N-Queens | https://shorturl.at/ceoI4 | 
 | `52` | N-Queens II | https://shorturl.at/demDQ |
+| `76` | Minimum Window Substring | https://shorturl.at/bmAMY | 
 | `84` | Largest Rectangle in Histogram | https://shorturl.at/ioqRW | 
 | `124` | Binary Tree Maximum Path Sum | https://shorturl.at/doTU1 | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
