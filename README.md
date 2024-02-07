@@ -107,7 +107,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `1347` | Minimum Number of Steps to Make Two Strings Anagram | https://shorturl.at/swGU2 | 
 | `1448` | Count Good Nodes in Binary Tree | https://shorturl.at/ajn24 | 
 | `1457` | Pseudo-Palindromic Paths in a Binary Tree | https://shorturl.at/jxAQY | 
-| `1552` | Magnetic Force Between Two Balls |  |
+| `1552` | Magnetic Force Between Two Balls | https://shorturl.at/fhiqZ |
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
 | `2064` | Minimized Maximum of Products Distributed to Any Store |   | 
