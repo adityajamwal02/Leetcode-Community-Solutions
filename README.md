@@ -90,7 +90,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `739` | Daily Temperatures | https://shorturl.at/FIKPS | 
 | `797` | All Paths From Source to Target | https://shorturl.at/mLMW2 | 
 | `826` | Most Profit Assigning Work | https://shorturl.at/gjnV0 | 
-| `875` | Koko Eating Bananas |   | 
+| `875` | Koko Eating Bananas | https://shorturl.at/vLSU9 | 
 | `901` | Online Stock Span | https://shorturl.at/diGK5 | 
 | `918` | Maximum Sum Circular Subarray | https://shorturl.at/lpFQR | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
