@@ -113,7 +113,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `2064` | Minimized Maximum of Products Distributed to Any Store |   | 
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
-| `2226` | Maximum Candies Allocated to K Children |  | 
+| `2226` | Maximum Candies Allocated to K Children | https://shorturl.at/lvBC4 | 
 | `2385` | Amount of Time for Binary Tree to Be Infected | https://shorturl.at/aciz2 | 
 | `2550` | Count Collisions of Monkeys on a Polygon | https://shorturl.at/coAFL | 
 | `2594` | Minimum Time to Repair Cars |  | 
