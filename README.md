@@ -152,7 +152,7 @@ Leetcode Profile: https://leetcode.com/darkaadityaa/
 | `354` | Russian Doll Envelopes | https://shorturl.at/djRS4 | 
 | `410` | Split Array Largest Sum |    | 
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
-| `493` | Reverse Pairs |   | 
+| `493` | Reverse Pairs | https://shorturl.at/cpQX6 | 
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
 | `719` | Find K-th Smallest Pair Distance |   | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
