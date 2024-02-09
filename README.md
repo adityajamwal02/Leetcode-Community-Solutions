@@ -5,7 +5,6 @@
 ### Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 <br>
-<br>
 
 #### Note:
 
