@@ -1,13 +1,13 @@
 # Leetcode-Community-Solutions
 
-#### Intuitions, approaches and code for **Leetcode Problems** which have been explained by me with solutions. Divided based on difficulty to easily access different questions.
+## Intuitions, approaches and code for **Leetcode Problems** which have been explained by me with solutions. Divided based on difficulty to easily access different questions.
 
-##### Leetcode Profile: https://leetcode.com/darkaadityaa/
+## Leetcode Profile: https://leetcode.com/darkaadityaa/
 
 **Note:**
 <br>
 ### *If you find this repository helpful, consider giving it a star!*
-<br>
+
 ### *If you find my solutions helpful, consider giving them upvotes!*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
