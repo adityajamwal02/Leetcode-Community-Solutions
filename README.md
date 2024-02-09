@@ -6,11 +6,11 @@
 
 <br>
 
-#### Note:
+##### Note:
 
-### *If you find this repository helpful, consider giving it a star!*
+#### *If you find this repository helpful, consider giving it a star!*
 
-### *If you find my solutions helpful, consider giving them upvotes!*
+#### *If you find my solutions helpful, consider giving them upvotes!*
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
