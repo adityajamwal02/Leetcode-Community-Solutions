@@ -119,7 +119,7 @@
 | `2226` | Maximum Candies Allocated to K Children | https://shorturl.at/lvBC4 | 
 | `2385` | Amount of Time for Binary Tree to Be Infected | https://shorturl.at/aciz2 | 
 | `2550` | Count Collisions of Monkeys on a Polygon | https://shorturl.at/coAFL | 
-| `2594` | Minimum Time to Repair Cars |  | 
+| `2594` | Minimum Time to Repair Cars | https://shorturl.at/dAKLZ | 
 | `2870` | Minimum Number of Operations to Make Array Empty | https://shorturl.at/puKV5 |
 | `2966` | Divide Array Into Arrays With Max Difference | https://shorturl.at/buyUV | 
 | `2981` | Find Longest Special Substring That Occurs Thrice I | https://shorturl.at/jtv04 | 
