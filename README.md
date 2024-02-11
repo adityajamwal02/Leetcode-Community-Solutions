@@ -114,7 +114,7 @@
 | `1552` | Magnetic Force Between Two Balls | https://shorturl.at/fhiqZ |
 | `1686` | Stone Game VI | https://shorturl.at/ktzBH |
 | `1922` | Count Good Numbers | https://shorturl.at/K2359 |
-| `2064` | Minimized Maximum of Products Distributed to Any Store |   | 
+| `2064` | Minimized Maximum of Products Distributed to Any Store | https://shorturl.at/qDTZ9 | 
 | `2095` | Delete the Middle Node of a Linked List | https://shorturl.at/dfklA | 
 | `2125` | Number of Laser Beams in a Bank | https://shorturl.at/sIUW5 | 
 | `2226` | Maximum Candies Allocated to K Children | https://shorturl.at/lvBC4 | 
