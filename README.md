@@ -158,7 +158,7 @@
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
 | `493` | Reverse Pairs | https://shorturl.at/cpQX6 | 
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
-| `719` | Find K-th Smallest Pair Distance |   | 
+| `719` | Find K-th Smallest Pair Distance | https://shorturl.at/iNOW1 | 
 | `857` | Minimum Cost to Hire K Workers | https://shorturl.at/bdKQV | 
 | `862` | Shortest Subarray with Sum at Least K | https://shorturl.at/gjvxS | 
 | `871` | Minimum Number of Refueling Stops | https://shorturl.at/S1457 | 
