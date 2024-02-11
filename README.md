@@ -154,7 +154,7 @@
 | `239` | Sliding Window Maximum | https://shorturl.at/evD08 | 
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
 | `354` | Russian Doll Envelopes | https://shorturl.at/djRS4 | 
-| `410` | Split Array Largest Sum |    | 
+| `410` | Split Array Largest Sum | https://shorturl.at/myUY0 | 
 | `432` | All O'one Data Structure | https://shorturl.at/dlpS7 |
 | `493` | Reverse Pairs | https://shorturl.at/cpQX6 | 
 | `629` | K Inverse Pairs Array | https://shorturl.at/fhWY7 | 
