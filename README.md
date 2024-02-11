@@ -98,7 +98,7 @@
 | `901` | Online Stock Span | https://shorturl.at/diGK5 | 
 | `918` | Maximum Sum Circular Subarray | https://shorturl.at/lpFQR | 
 | `931` | Minimum Falling Path Sum | https://shorturl.at/gvR67 | 
-| `1011` | Capacity To Ship Packages Within D Days |  | 
+| `1011` | Capacity To Ship Packages Within D Days | https://shorturl.at/htxAH | 
 | `1019` | Next Greater Node In Linked List | https://shorturl.at/pFMQ8 | 
 | `1026` | Maximum Difference Between Node and Ancestor | https://shorturl.at/GPV48 |
 | `1043` | Partition Array for Maximum Sum | https://shorturl.at/boIV7 | 
