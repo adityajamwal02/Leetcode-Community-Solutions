@@ -149,7 +149,7 @@
 | `124` | Binary Tree Maximum Path Sum | https://shorturl.at/doTU1 | 
 | `127` | Word Ladder | https://shorturl.at/csNW7 |
 | `135` | Candy | https://shorturl.at/nrtHK | 
-| `154` | Find Minimum in Rotated Sorted Array II |  | 
+| `154` | Find Minimum in Rotated Sorted Array II | https://shorturl.at/dzL16 | 
 | `218` | The Skyline Problem | https://shorturl.at/gmrE5 | 
 | `239` | Sliding Window Maximum | https://shorturl.at/evD08 | 
 | `295` | Find Median from Data Stream | https://shorturl.at/knsH7 | 
