@@ -76,7 +76,7 @@
 | `198` | House Robber | https://shorturl.at/tGS08 |
 | `230` | Kth Smallest Element in a BST | https://shorturl.at/bJLS2 | 
 | `237` | Delete Node in a Linked List | https://shorturl.at/aqsDY | 
-| `240` | Search a 2D Matrix II |   |
+| `240` | Search a 2D Matrix II | https://shorturl.at/lwMS1 |
 | `241` | Different Ways to Add Parentheses | https://shorturl.at/kstC2 |
 | `287` | Find the Duplicate Number | https://shorturl.at/psDNW | 
 | `337` | House Robber III | https://shorturl.at/knHLY | 
