@@ -62,7 +62,7 @@
 | `46` | Permutations | https://shorturl.at/bpMPW | 
 | `48` | Rotate Image | https://shorturl.at/cmrGU |
 | `53` | Maximum Subarray | https://shorturl.at/akl26 | 
-| `74` | Search a 2D Matrix |  | 
+| `74` | Search a 2D Matrix | https://shorturl.at/gpN48 | 
 | `77` | Combinations | https://shorturl.at/bnzG9 | 
 | `78` | Subsets | https://shorturl.at/kpqvw | 
 | `90` | Subsets II | https://shorturl.at/bkmoM |
