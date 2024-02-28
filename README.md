@@ -87,6 +87,7 @@
 | `456` | 132 Pattern | https://shorturl.at/afjJ4 | 
 | `486` | Predict The Winner | https://shorturl.at/frVZ0 |
 | `503` | Next Greater Element II | https://shorturl.at/htJV6 | 
+| `513` | Find Bottom Left Tree Value | https://shorturl.at/kmuw6 | 
 | `560` | Subarray Sum Equals K | https://shorturl.at/eEQT2 |
 | `576` | Out of Boundary Paths | https://shorturl.at/qBGT1 | 
 | `647` | Palindromic Substrings | https://shorturl.at/oyAN2 | 
